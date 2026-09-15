@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /SEO strategy.txt
 
-Sitemap: https://khbsites00-art.github.io/lahore-vip-companions/sitemap.xml
+Sitemap: https://khbsites00-art.github.io/lahore-vip-companions-03711399964/sitemap.xml
